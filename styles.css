@@ -1,0 +1,197 @@
+html{
+    overflow-x: hidden;
+}
+.logo{
+    padding-left: 40px;
+    padding-top: 20px;
+    font-size: 2rem;
+}
+.a{
+    background-color: #1687a7;
+}
+h2{
+    color: #ffd369 ;
+    font-family:'Oswald', sans-serif;
+    font-size: 3rem;
+    text-align: center;
+   
+}
+
+p{
+    color: #000000;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-left:130px ;
+}
+.carousel-1{
+    margin-top:100px ;
+    margin-right: 160px;
+}
+.carousel-2{
+height: 350px;
+width: 700px;
+margin-top: 100px;
+}
+.carousel-3{
+    padding-left: 100px;
+    margin-top:100px ;
+}
+.button-carousel{
+margin-left: 500px;
+}
+
+.carousel-item{
+    margin-bottom: 20px;
+}
+.navbar-collapse{
+    padding-right: 20px;
+    padding-top: 20px;
+}
+h1{
+    color: black;
+    font-family:'Oswald', sans-serif;
+    font-size: 4rem;
+    text-align: center;
+    
+}
+.navbar-brand{
+    padding-left: 10px;
+}
+.navbar-brand h3{
+    font-size: 36px;
+}
+.about-us{
+    padding-top: 80px;
+}
+.about-us-image{
+    height: 450px;
+    width: 600px;
+}
+.lead{
+    text-align: left;
+}
+.video{
+    padding-left: 170px;
+    padding-top:30px ;
+}
+body{
+    background-color: #f6f5f5;
+}
+.products-text{
+    text-align: center;
+}
+.sample-image{
+    text-align: center;
+    height: 300px;
+    width: 400px;
+}
+.prod-content{
+    margin-top: -150px;
+    margin-right: 100px;
+}
+
+.image-products{
+    width:500px ;
+    height: 280px;
+border-radius: 3%;
+}
+.col-lg-6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.carousel-heading{
+    margin-top: 21%;
+    margin-left: 4%;
+}
+.block{
+    width: 900px;
+    background-color: #ffd369;
+    
+}
+
+#features{
+    padding: 3% 15%;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+    
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+body{
+    background-color:#1687a7 ;
+}
+
+.icon{
+    color: #276678;
+
+}
+.lead{
+    color: #f6f5f5;
+}
+.last-image-home{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        width: 80%;
+        height: 100px;
+      margin-top: 60px;
+}
+.last-home-conatainer{
+    background-color: #30475e;
+}
+.last-container-heading{
+    color: white;
+    font-size: 2.5rem;
+}
+.last-container-content{
+    color: #cdd0cb    ;
+    font-family: 'Ubuntu', sans-serif;
+    text-align:left;
+}
+.container-content{
+    padding-left: 350px;
+    font-family: 'Roboto Mono', monospace;
+    padding-top: 150px;
+text-align: left;
+}
+a{
+    color: #cdd0cb;
+}
+.terms-conditions{
+    background-color: #222831;
+}
+.term-text{
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin-bottom: 0;
+}
+.icon-centre{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    padding-bottom: 50px;
+}
+.icon-heading{
+    text-align: center;
+    color: white;
+}
+
+
+
+.idk{
+    width: 1500px;
+    height: 600px;
+   margin-left: 180px;
+}
+
+ 

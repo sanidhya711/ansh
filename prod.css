@@ -1,0 +1,173 @@
+
+
+
+
+
+.navbar{
+    background-color: #276678;
+}
+.prod-content-blue{
+    background-color:#1687a7 ;
+    height: 900px;
+}
+.prod-img{
+    margin-top: 180px;
+}
+h1{
+    padding-top: 18%;
+    font-size: 3.5rem;
+    text-align: center;
+    color:#1687a7  ;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    word-spacing: 5px;
+}
+h2{
+    text-align: center;
+    color:#1687a7  ;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    word-spacing: 5px;
+    font-size: 3rem;
+}
+h5{
+    text-align: center;
+
+}
+h3{
+    font-size: 2.1rem;
+}
+.last-image-home{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 80%;
+    height: 100px;
+  margin-top: 60px;
+}
+.last-home-conatainer{
+background-color: #30475e;
+}
+.last-container-heading{
+color: white;
+font-size: 2.5rem;
+}
+.last-container-content{
+color: #cdd0cb    ;
+font-family: 'Ubuntu', sans-serif;
+text-align:left;
+}
+.container-content{
+padding-left: 350px;
+font-family: 'Roboto Mono', monospace;
+padding-top: 150px;
+text-align: left;
+}
+a{
+color: #cdd0cb;
+}
+.terms-conditions{
+background-color: #222831;
+}
+.term-text{
+text-align: center;
+color: white;
+padding: 20px;
+}
+.icon-centre{
+display: flex;
+align-items: center;
+justify-content: center;
+color: whitesmoke;
+padding-bottom: 50px;
+}
+.icon-heading{
+text-align: center;
+color: white;
+}
+
+.button{
+
+    width:100vw;
+    display:flex;
+    justify-content:center
+}
+.strip-down{
+    width:100vw;
+    display:flex;
+    justify-content:center;
+}
+.logo{
+   height:200px ;
+   width: 250px;
+   margin-bottom:100px ;
+}
+.last-image-home{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 80%;
+    height: 100px;
+  margin-top: 60px;
+}
+.last-home-conatainer{
+background-color: #30475e;
+}
+.last-container-heading{
+color: white;
+font-size: 2.5rem;
+}
+.last-container-content{
+color: #cdd0cb    ;
+font-family: 'Ubuntu', sans-serif;
+text-align:left;
+}
+.container-content{
+padding-left: 350px;
+font-family: 'Roboto Mono', monospace;
+padding-top: 150px;
+text-align: left;
+}
+a{
+color: #cdd0cb;
+}
+.terms-conditions{
+background-color: #222831;
+}
+.term-text{
+text-align: center;
+color: white;
+padding: 20px;
+}
+.icon-centre{
+display: flex;
+align-items: center;
+justify-content: center;
+color: whitesmoke;
+padding-bottom: 50px;
+}
+.icon-heading{
+text-align: center;
+color: white;
+}
+
+.image-client{
+    width:100vw;
+display:flex;
+justify-content:center;
+margin-top: 50px;
+}
+.heading-client{
+    margin-top: -300px;
+    font-size: 5rem;
+}
+.client-logo{
+    padding:0 10% ;
+}
+.client-abt{
+    text-align: center;
+    color: #276678;
+    font-weight: 600;
+}

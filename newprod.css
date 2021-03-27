@@ -1,0 +1,16 @@
+.product-image{
+ height: 600px;
+    background-color: #1687a7;
+    justify-content: center;
+}
+.new-prod-heading{
+    margin-top: -280px;
+}
+.button-new-prod{
+    margin-bottom: 100px;
+    margin-top: 70px;
+}
+.prod-img{
+   padding-left: 400px;
+  
+}
